@@ -1,0 +1,15 @@
+C:\Users\darri\source\repos\homework_module_4_tasks\homework_module_4_tasks\bin\Debug\net8.0\homework_module_4_tasks.exe
+C:\Users\darri\source\repos\homework_module_4_tasks\homework_module_4_tasks\bin\Debug\net8.0\homework_module_4_tasks.deps.json
+C:\Users\darri\source\repos\homework_module_4_tasks\homework_module_4_tasks\bin\Debug\net8.0\homework_module_4_tasks.runtimeconfig.json
+C:\Users\darri\source\repos\homework_module_4_tasks\homework_module_4_tasks\bin\Debug\net8.0\homework_module_4_tasks.dll
+C:\Users\darri\source\repos\homework_module_4_tasks\homework_module_4_tasks\bin\Debug\net8.0\homework_module_4_tasks.pdb
+C:\Users\darri\source\repos\homework_module_4_tasks\homework_module_4_tasks\obj\Debug\net8.0\homework_module_4_tasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darri\source\repos\homework_module_4_tasks\homework_module_4_tasks\obj\Debug\net8.0\homework_module_4_tasks.AssemblyInfoInputs.cache
+C:\Users\darri\source\repos\homework_module_4_tasks\homework_module_4_tasks\obj\Debug\net8.0\homework_module_4_tasks.AssemblyInfo.cs
+C:\Users\darri\source\repos\homework_module_4_tasks\homework_module_4_tasks\obj\Debug\net8.0\homework_module_4_tasks.csproj.CoreCompileInputs.cache
+C:\Users\darri\source\repos\homework_module_4_tasks\homework_module_4_tasks\obj\Debug\net8.0\homework_module_4_tasks.sourcelink.json
+C:\Users\darri\source\repos\homework_module_4_tasks\homework_module_4_tasks\obj\Debug\net8.0\homework_module_4_tasks.dll
+C:\Users\darri\source\repos\homework_module_4_tasks\homework_module_4_tasks\obj\Debug\net8.0\refint\homework_module_4_tasks.dll
+C:\Users\darri\source\repos\homework_module_4_tasks\homework_module_4_tasks\obj\Debug\net8.0\homework_module_4_tasks.pdb
+C:\Users\darri\source\repos\homework_module_4_tasks\homework_module_4_tasks\obj\Debug\net8.0\homework_module_4_tasks.genruntimeconfig.cache
+C:\Users\darri\source\repos\homework_module_4_tasks\homework_module_4_tasks\obj\Debug\net8.0\ref\homework_module_4_tasks.dll
